@@ -9,7 +9,7 @@
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Color Gradients</Name>
+    <Name>Color_Gradients</Name>
     <RootNamespace>Color_Gradients</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
